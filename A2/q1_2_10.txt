@@ -1,0 +1,50 @@
+[*] Starting training of full dataset with Decision Tree Classifier
+[*] Done training for algorithm: Decision Tree Classifier with metric: areaUnderROC. Training time: 1403.685803
+[*] Testing and making predictions
+[*] Done evaluating data and making predictions.Decision Tree Classifier: areaUnderROC: 0.703228
+[*] Decision Tree Classifier most important features
+[*] - m_bb
+[*] - m_wwbb
+[*] - m_wbb
+[*] Starting training of full dataset with Decision Tree Classifier
+[*] Done training for algorithm: Decision Tree Classifier with metric: accuracy. Training time: 1070.107032
+[*] Testing and making predictions
+[*] Done evaluating data and making predictions.Decision Tree Classifier: accuracy: 0.703880
+[*] Decision Tree Classifier most important features
+[*] - m_bb
+[*] - m_wwbb
+[*] - m_wbb
+[*] Starting training of full dataset with Decision Tree Regressor
+[*] Done training for algorithm: Decision Tree Regressor with metric: areaUnderROC. Training time: 859.290963
+[*] Testing and making predictions
+[*] Done evaluating data and making predictions.Decision Tree Regressor: areaUnderROC: 0.703228
+[*] Starting training of full dataset with Decision Tree Regressor
+[*] Done training for algorithm: Decision Tree Regressor with metric: areaUnderROC. Training time: 1248.860679
+[*] Testing and making predictions
+[*] Done evaluating data and making predictions.Decision Tree Regressor: areaUnderROC: 0.703228
+[*] Decision Tree Regressor most important features
+[*] - m_bb
+[*] - m_wwbb
+[*] - m_wbb
+[*] Starting training of full dataset with Decision Tree Regressor
+[*] Done training for algorithm: Decision Tree Regressor with metric: accuracy. Training time: 980.151468
+[*] Testing and making predictions
+[*] Done evaluating data and making predictions.Decision Tree Regressor: accuracy: 0.703880
+[*] Decision Tree Regressor most important features
+[*] - m_bb
+[*] - m_wwbb
+[*] - m_wbb
+[*] Starting training of full dataset with Logistic Regression
+[*] Done training for algorithm: Logistic Regression with metric: areaUnderROC. Training time: 563.715811
+[*] Testing and making predictions
+[*] Done evaluating data and making predictions.Logistic Regression: areaUnderROC: 0.618381
+[*] - m_wwbb
+[*] - m_bb
+[*] - m_lv
+[*] Starting training of full dataset with Logistic Regression
+[*] Done training for algorithm: Logistic Regression with metric: accuracy. Training time: 261.228788
+[*] Testing and making predictions
+[*] Done evaluating data and making predictions.Logistic Regression: accuracy: 0.626791
+[*] - m_wwbb
+[*] - m_bb
+[*] - m_lv

@@ -1,0 +1,14 @@
+[*] Removing fields with missing data in rows
+[*] Converting categorical data into suitable representation
+[*] Using down-sampling to deal with unbalance in dataset
+[*] Training with linear regression
+[*] Done training in 2133.911916 secs .Prediction and evaluation of results...
+[*] Root Mean Squared Error on test data: 69.498
+[*] Classifying data with Decision tree classifier...
+[*] Beginning classification training..
+[*] Done training in 637.190087 secs
+[*] Binary classifier for claims has areaUnderROC value: 0.499997
+[*] Performing regression using Gamma GLR...
+[*] Beginning training...
+[*] Done training in 2040.228538 secs. Evaluating model
+[*] RMSE value for Gamma regression: 253.784494
